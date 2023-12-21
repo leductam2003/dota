@@ -5,5 +5,5 @@
 npm install
 在mint.js中修改count 多次mint
 const count = 100
-#mint指令
+# mint指令
 node mint
